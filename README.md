@@ -29,7 +29,7 @@ Dashboard creation: Using the Streamlit and Plotly libraries in Python to create
 
 Data retrieval: Using the "psycopg2" library to connect to the PostgreSQL database and fetch the data into a Pandas dataframe. Using the data in the dataframe to update the dashboard dynamically.
 
-This approach leverages the power of Python and its numerous libraries to extract, transform, and analyze data, and to create a user-friendly dashboard for visualizing the insights obtained from the data.
+This approach leverages the power of Python and its numerous libraries to extract, transform, and analyze data, and to create a user-friendly dashboard for visualizing the insights obtained from the data
 
 
 
